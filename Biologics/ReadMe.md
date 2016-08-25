@@ -2,6 +2,7 @@
 In this folder, you will find my sample work files on building a predictive model for one of my company's drug yield.
 
 I went through the entire data science workflow in this exercise, including:
+
 1. Data acquisition,
 2. Data cleaning
 3. Feature selection

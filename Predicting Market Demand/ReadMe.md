@@ -1,3 +1,3 @@
 # Project Summary
 
-This is a sample project where I had to project missing market demand data to identify investment opportunities.
+This is a sample project where I had to predict market demand to identify investment opportunities.

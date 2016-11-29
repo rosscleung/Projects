@@ -13,7 +13,8 @@ Here are my data science and machine learning sample projects, using python pack
 * Python script used in conjunction with SQL to process and clean data, no machine learning here
 
 ## NLP - Classifying email authors
-* A fun, quick exercise to show how a commonly used NLP classifer (Naive Bayes) can identify the author of an email from two of my colleagues
+* A fun, quick exercise to show how a commonly used NLP classifer (Naive Bayes) can identify the author of an email from two of my colleagues.
+* This technique can be applied to more than just identifying authors. It can be used to develop a model to identify spam emails or do sentiment analysis.
 
 ## Predicting Market Demand
 * A regression exercise to fill in missing market demand data that is essential in an investment decision

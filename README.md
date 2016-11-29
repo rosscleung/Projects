@@ -10,7 +10,7 @@ Here are my data science and machine learning sample projects, using python pack
 * Used feature selection, regression models, and classification models to study the data
 
 ## Data mining:
-* Python script used in conjunction with SQL to process and clean data, no machine learning there
+* Python script used in conjunction with SQL to process and clean data, no machine learning here
 
 ## NLP - Classifying email authors
 * A fun, quick exercise to show how a commonly used NLP classifer (Naive Bayes) can identify the author of an email from two of my colleagues

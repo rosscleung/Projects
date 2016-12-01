@@ -37,3 +37,6 @@ Here are my data science and machine learning sample projects, using python pack
 ## Unsupervised Learning Performance - Silhouette Score Analysis
 * In unsupervised learning, usually you don't have "target answers" to compare the model's identified clusters.
 * In this exercise, I will show how to use unsupervised learning to identify clusters and assess the quality of such clusters using a score called the Silhouette score
+
+## Multi-Label Classification
+* This notebook shows how to do multi-label (not simply multi-class) classification with algorithms that are both ready / not ready out of the SciKit-Learn box. 

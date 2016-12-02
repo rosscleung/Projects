@@ -17,13 +17,12 @@ Here are my data science and machine learning sample projects, using python pack
 * Used feature selection, regression models, and classification models to study the data
 
 ## Neural Network MNIST Digit Set
-* An example showing a multi-layer perceptron (back propagation neural network) algorithm that is newly added to SciKit-Learn 0.18.
-* This notebook shows a neural network identifying images with numerical digits from the famous MNIST data set.
+* An example showing a multi-layer perceptron (back propagation neural network) algorithm that is newly added to SciKit-Learn 0.18 used to recognize images with numbers on them, i.e. the famous MNIST digit set.
 
 ## Predicting Market Demand
 * A regression exercise to fill in missing market demand data that is essential in an investment decision
 
-## Data mining:
+## Data Processing Automation Script:
 * Python script used in conjunction with SQL to process and clean data to cut down the time needed to process the data. No machine learning here.
 
 ## Tutorial Notebooks

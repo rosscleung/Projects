@@ -1,7 +1,7 @@
 # Overview
 Here are my data science and machine learning sample projects, using python packages such as Pandas and SciKit-Learn! 
 
-## NLP - Social Meda App Multi-Label Classification
+## [NLP - Social Meda App Multi-Label Classification][https://github.com/rosscleung/Projects/tree/master/NLP%20-%20Social%20Meda%20App%20Multi-Label%20Classification]
 * Using some real data from a social media app, I recreate what I think is their multi-label classification and recommendation technique.
 
 ## NLP - Classifying Email Authors

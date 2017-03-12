@@ -1,6 +1,10 @@
 # Overview
 Here are my data science and machine learning sample projects, using python packages such as Pandas and SciKit-Learn! 
 
+## [Credit Card Fraud: Modeling imbalanced data and why you should NOT use ROC curve, use a Precision/Recall curve instead](https://github.com/rosscleung/Projects/blob/master/Credit%20Card%20Fraud%20Notebook.ipynb)
+* This notebook explores the [Kaggle credit card fraud data set](https://www.kaggle.com/dalpozz/creditcardfraud), where the goal is to identify credit card frauds, which by nature is infrequent when compared to legitimate credit card charges. The challenge thereby is to handle the highly imbalanced dataset which is problematic when it comes to machine learning.
+* I also discuss why ROC curve should not be used when exploring highly imbalanced data, and a Precision/Recall curve should be used instead.
+
 
 ## [Linear Regression with Gradient Descent: Built from Scratch](https://github.com/rosscleung/Projects/tree/master/Built%20from%20Scratch%20Linear%20Regression)
 * It's good to know what goes on underneath the hood for machine learning algorithms. Starting with the most basic one, Linear Regression, I've built a class object that can do Linear Regression while using Gradient Descent for minimizing the cost function. The results of my self built Linear Regression are exactly the same as the implementation in SciKit-Learn.

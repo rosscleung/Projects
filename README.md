@@ -1,6 +1,7 @@
 # Overview
 Here are my data science and machine learning sample projects, using python packages such as Pandas and SciKit-Learn! 
 
+
 ## [Linear Regression with Gradient Descent: Built from Scratch](https://github.com/rosscleung/Projects/tree/master/Built%20from%20Scratch%20Linear%20Regression)
 * It's good to know what goes on underneath the hood for machine learning algorithms. Starting with the most basic one, Linear Regression, I've built a class object that can do Linear Regression while using Gradient Descent for minimizing the cost function. The results of my self built Linear Regression are exactly the same as the implementation in SciKit-Learn.
 
